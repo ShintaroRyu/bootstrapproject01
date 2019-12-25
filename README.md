@@ -2,7 +2,7 @@
 
 ## ステータス
 
-[![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) 
+[![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 ![npm](https://img.shields.io/npm/dt/express.svg)
 [![Coverage Status](https://img.shields.io/coveralls/facebook/react/master.svg?style=flat)](https://coveralls.io/github/facebook/react?branch=master)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
@@ -73,19 +73,19 @@ Ctrl + c
 
 - ローカルリポジトリとして初期化
 ```git
-$ git init 
+$ git init
 # gi
 ```
 
 - 全てをアド
 ```git
-$ git add . 
+$ git add .
 # ga.
 ```
 
 - コミット
 ```git
-$ git commit -m "first commit" 
+$ git commit -m "first commit"
 # gcm "first commt"
 ```
 
@@ -120,7 +120,7 @@ $ cd Desktop¥zdxxxx¥sm.Ch04.BootstrapData¥bootstrapProject
 
 - アドコミット
 ```git
-$ git add | git commit -m "add contents" 
+$ git add | git commit -m "add contents"
 # gacm "add contents"
 ```
 
